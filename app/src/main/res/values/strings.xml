@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Runtime Permission</string>
+    <string name="storage_permission_message">Storage Permission Required!</string>
+    <string name="storage_permission_action">RETRY</string>
+</resources>
